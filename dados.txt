@@ -1,12 +1,12 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
-
+-Primeiro Nome: Gabriel
+-Profissão: Analista de Teste
+-Cidade: Taubaté
+-O que faz nas horas vaga: Jogo e Estudo
+-Feedback sobre o curso Qualidade de Software: Excelente até o momento
+-Feedback sobre a plataforma de estudo da EBAC: muito bom
+ 
 Obrigado!!!
 
 

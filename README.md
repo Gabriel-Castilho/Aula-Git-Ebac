@@ -5,7 +5,7 @@ Fique a vontade se não quiser responder todos os itens.
 ### Instruções: 
 
 -Faça um clone deste repositório em sua máquina;
-
+ 
 -Edite o arquivo dados.txt;
 
 -Crie um repositório no github com o nome aula-git-ebac;
